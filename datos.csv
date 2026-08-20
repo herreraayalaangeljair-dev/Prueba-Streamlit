@@ -1,0 +1,11 @@
+Producto,Categoria,Precio,Cantidad_Vendida,Fecha
+Laptop Pro,Electronica,1200,15,2026-01-10
+Mouse Inalámbrico,Electronica,25,120,2026-01-12
+Teclado Mecánico,Electronica,75,45,2026-01-15
+Silla de Oficina,Muebles,180,8,2026-01-20
+Cafetera Automática,Hogar,90,30,2026-01-22
+Monitor 27",Electronica,300,22,2026-01-25
+Escritorio Minimalista,Muebles,220,10,2026-02-01
+Audífonos Bluetooth,Electronica,50,85,2026-02-05
+Lámpara LED,Hogar,35,60,2026-02-08
+Mochila para Laptop,Accesorios,45,95,2026-02-10
